@@ -1,5 +1,5 @@
 {
-    "name": "ml/json-ld",
+    "name": "frmichel/json-ld",
     "type": "library",
     "description": "JSON-LD Processor for PHP",
     "keywords": [ "JSON-LD", "jsonld" ],
@@ -23,7 +23,7 @@
         "phpunit/phpunit": "^4"
     },
     "autoload": {
-        "psr-0": { "ML\\JsonLD": "" }
+        "psr-0": { "frmichel\\JsonLD": "" }
     },
-    "target-dir": "ML/JsonLD"
+    "target-dir": "frmichel/JsonLD"
 }
